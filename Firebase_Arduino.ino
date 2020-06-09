@@ -21,10 +21,10 @@
 #include <FirebaseArduino.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "pythonfirebaselora.firebaseio.com"
-#define FIREBASE_AUTH "YmBcTjK7pkHu9M35BHvraFrmpt8IE6RyCCOnbqih"
-#define WIFI_SSID "KMT-Yonetim"
-#define WIFI_PASSWORD "yonetim123"
+#define FIREBASE_HOST host_name
+#define FIREBASE_AUTH auth_key
+#define WIFI_SSID wifi_name
+#define WIFI_PASSWORD wifi_pass
 #define kirmiziLED D0
 #define beyazLED D3
 
